@@ -1,4 +1,6 @@
 # E-commerce Customer Segmentation with RFM Analysis
+![E-com RFM](https://img.shields.io/badge/Ecommerce-FRM_Customer_Segmentation-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📊 Project Overview
 This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers of a UK-based online retail store that sells all-occasion gifts. By categorizing customers based on their purchasing behavior, I aim to deliver actionable insights that enable targeted marketing strategies and optimize customer engagement.
