@@ -89,7 +89,7 @@ The analysis identified 11 distinct customer segments:
 
 
 ### Customer Behavior Patterns
-- Most customers made purchases within the last 50 days
+- Nearly half of customers made purchases within the last 50 days
 - Typical purchase frequency is between 10-25 orders
 - Strong correlation between frequency and monetary value
 
