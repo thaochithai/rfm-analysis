@@ -3,7 +3,7 @@
 ## Technical Documentation
 
 ### Overview
-This project used the RFM (Recency, Frequency, Monetary) Analysis to analyze customer from a online retail store. The project aims to identify and analyze different customer segments to inform targeted marketing strategies. Customers are grouped into segments based on their RFM score. Below is the mapping table used:
+This project used the RFM (Recency, Frequency, Monetary) Analysis to analyze customer profile of a online retail store based in UK. The project aims to identify and analyze different customer segments to inform targeted marketing strategies. Customers are grouped into segments based on their RFM score. Below is the mapping table used:
 
 | Segment              | RFM Score                                                                                              |
 |----------------------|--------------------------------------------------------------------------------------------------------|
@@ -25,8 +25,8 @@ These segments can be used to guide business decisions, such as:
 - Engaging promising or new customers to build loyalty
 
 ## Dataset Overview
-- **Source:** Transactional records from an online retail store
-- **Size:** 541,909 records with 8 columns
+- **Source:** Transactional records from an online retail store that sell all-occasion gifts.
+- **Size:** 541,909 records with 8 fields
 - **Time Period:** 2010-12-01 to 2011-12-9
 
 ## Data Dictionary
@@ -78,4 +78,6 @@ These segments can be used to guide business decisions, such as:
 - **Recency:** 5 = most recent, 1 = least recent
 - **Frequency & Monetary:** 5 = most frequent/highest spenders, 1 = least
 - RFM scores combined into 3-digit values (e.g., 555 = top tier)
+
+## Insight & Recommendation
 
