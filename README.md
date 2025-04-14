@@ -1,5 +1,5 @@
 # E-commerce Customer Segmentation with RFM Analysis
-![E-com RFM](https://img.shields.io/badge/Ecommerce-FRM_Customer_Segmentation-green)
+![E-com RFM](https://img.shields.io/badge/Python-FRM_Customer_Segmentation-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📊 Project Overview
