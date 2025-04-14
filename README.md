@@ -122,10 +122,10 @@ Average ABS across all segments is **£1,479.80**.
 Champions: These customers purchase frequently and recently, with the highest average monetary value.
 → Strategy: Leverage this segment with premium product offerings and high Average Basket Size (ABS) SKUs. Ensure strong retention with exclusive perks or early access to new collections.
 
-### Loyal Customers: This group shows consistent purchasing behavior with strong potential for long-term value.
+#### Loyal Customers: This group shows consistent purchasing behavior with strong potential for long-term value.
 → Strategy: Maintain engagement through personalized offers, loyalty points, and feedback loops to reinforce loyalty and prevent churn.
 
-### At Risk: Customers here have shown moderate value but are slipping in recency. This could be due to one-off or declining purchases.
+#### At Risk: Customers here have shown moderate value but are slipping in recency. This could be due to one-off or declining purchases.
 → Strategy: Re-engage with recurring promotions, personalized win-back campaigns, or reminders based on their past preferences to boost frequency and recency.
 
 ### Growth & Potential Segments
