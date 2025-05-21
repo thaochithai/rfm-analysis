@@ -2,7 +2,7 @@
 ![E-com RFM](https://img.shields.io/badge/Python-FRM_Customer_Segmentation-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## 📊 Project Overview
+## Project Overview
 This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers of a UK-based online retail store that sells all-occasion gifts. By categorizing customers based on their purchasing behavior, I aim to deliver actionable insights that enable targeted marketing strategies and optimize customer engagement.
 
 ### Key Objectives:
@@ -11,14 +11,14 @@ This project applies RFM (Recency, Frequency, Monetary) analysis to segment cust
 - Provide actionable recommendations for each segment
 - Optimize marketing strategy
 
-## 💼 Business Context
+## Business Context
 Understanding different customer segments allows businesses to:
 - Target marketing efforts more effectively
 - Develop personalized communication strategies
 - Optimize resource allocation
 - Increase customer retention and lifetime value
 
-## 📋 Dataset Information
+## Dataset Information
 - **Source:** Online retail transaction records
 - **Size:** 541,909 records with 8 columns
 - **Time Period:** December 2010 to December 2011
@@ -36,7 +36,7 @@ Understanding different customer segments allows businesses to:
 | CustomerID  | Customer number. A 5-digit code uniquely identifying each customer.         | float64         |
 | Country     | Name of the country where the customer resides.                             | Object          |
 
-## 🔍 Methodology
+## Methodology
 The project follows these key steps:
 
 ### 1. Data Exploration & Preprocessing
@@ -81,7 +81,7 @@ The project follows these key steps:
 - Created visualizations to understand segment characteristics
 - Calculated key metrics like Average Basket Size (ABS) per segment
 
-## 🌟 Key Findings
+## Key Findings
 
 ### Customer Segmentation
 The analysis identified 11 distinct customer segments:
@@ -118,7 +118,7 @@ Average ABS across all segments is **£1,479.80**.
 | New Customers         | 267            | 38,547         | 144.37           |
 | Lost Customers        | 466            | 62,331         | 133.76           |
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 ### High-Value Segments
 Champions: These customers purchase frequently and recently, with the highest average monetary value.
